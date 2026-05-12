@@ -1,0 +1,8 @@
+torch
+torchvision
+albumentations
+pydensecrf
+Pillow
+opencv-python
+scikit-image
+numpy
