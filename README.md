@@ -9,7 +9,7 @@ Point-Supervised Infrared Small-Target Detection</h3>
 [![Framework](https://img.shields.io/badge/Framework-PyTorch-red)](#)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-[Paper](paper.pdf) · [arXiv](https://arxiv.org/abs/xxxx.xxxxx) · [Project Page](https://github.com/username/Diffuse-to-Detect)
+[arXiv](https://arxiv.org/abs/xxxx.xxxxx)
 
 </div>
 
@@ -37,7 +37,7 @@ The proposed framework addresses these issues with three key designs:
 
 ## News
 
-- `[2026-05-05]` Code released.
+- `[2026-05-11]` Code released.
 
 ## Code Usage
 
