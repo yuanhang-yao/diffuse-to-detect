@@ -6,10 +6,9 @@ Point-Supervised Infrared Small-Target Detection</h3>
 
 [![Conference](https://img.shields.io/badge/ICML-2026%20Spotlight-blue)](#)
 [![Task](https://img.shields.io/badge/Task-Point--Supervised%20ISTD-orange)](#)
-[![Framework](https://img.shields.io/badge/Framework-PyTorch-red)](#)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-[arXiv](https://arxiv.org/abs/xxxx.xxxxx)
+[arXiv](https://arxiv.org/abs/2605.20766)
 
 </div>
 
@@ -34,10 +33,6 @@ The proposed framework addresses these issues with three key designs:
 </p>
 
 > Overview of the proposed framework.
-
-## News
-
-- `[2026-05-11]` Code released.
 
 ## Code Usage
 
